@@ -1,8 +1,9 @@
-# Podróniczki
+# Podróżniczki
 TBD..
 
 ## 💻 Stack
 * React
+* typescript
 * Gatsby.js
 * styled-components
 * animate.css
